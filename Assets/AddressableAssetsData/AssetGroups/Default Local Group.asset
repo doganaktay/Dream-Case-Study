@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4d6dca2d79f9148059e47742df41a686
+  m_SerializeEntries:
+  - m_GUID: 03b02b40638f0494d8f0fd61909d72ec
+    m_Address: Assets/Backgrounds/water.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - background
+  - m_GUID: 44b22e11ee05f47dbb6dd75e43ad4027
+    m_Address: Assets/Levels/RM_A4.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  - m_GUID: 47259c3797df04471a43abd84f3bff37
+    m_Address: Assets/Levels/RM_A6.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  - m_GUID: 4e7aba0eeadfa42dd8f55f49a13476bb
+    m_Address: Assets/Backgrounds/beach.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - background
+  - m_GUID: 7ecd43016fb424e409fd58027dcafada
+    m_Address: Assets/Levels/RM_A10.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  - m_GUID: aad90b0d2655742908c5a228ace2cff0
+    m_Address: Assets/Levels/RM_A8.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  - m_GUID: ac402a1df654e4bd5859146df76230a0
+    m_Address: Assets/Levels/RM_A2.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  - m_GUID: b0e71abc6b44247b185c3b96ffaa56ed
+    m_Address: Assets/Levels/RM_A5.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  - m_GUID: cc7e7c33de0a54982a06c6e6bee76468
+    m_Address: Assets/Levels/RM_A9.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  - m_GUID: cf70482abedc5426aad7eaa81c53cc73
+    m_Address: Assets/Backgrounds/rock.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - background
+  - m_GUID: e3173d97a1ae94c558e7b1dca4223890
+    m_Address: Assets/Levels/RM_A1.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  - m_GUID: e4115b07e83984565bd19b27b14538fe
+    m_Address: Assets/Levels/RM_A7.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  - m_GUID: e9fd64dfe7d754a518418994257fac01
+    m_Address: Assets/Levels/RM_A3.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 76af6071d6256438dab44b9ac4829e13, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9997d680d7aec4d8587c068bb57debf7, type: 2}
+    - {fileID: 11400000, guid: ead65adc1dfc3481abecd40b30051ccf, type: 2}
